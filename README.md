@@ -5,3 +5,5 @@ The projects are as follow:-
 2. Watermark
 3. Convert image to sketch
 4. Face detection and blurring
+
+All the requirements are there in requirement.txt
